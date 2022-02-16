@@ -1,0 +1,13 @@
+Summary: Links in the footer are not clickable (Laptop 766*480 and less)
+
+Steps to reproduce:
+1) Open https://www.banuba.com/
+2) scroll to the footer
+3) try click any links
+
+Actual Result: Links in the footer are not clickable
+Expected Result: Links in the footer are clickable
+
+Environment:
+Microsoft 8.1б,Chrome version 98.0.4758.102,Laptop 766*480 and less
+Mobile: Lenovo L38041, version 5.0.094, version Android 8.1.0
