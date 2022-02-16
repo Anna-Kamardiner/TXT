@@ -1,0 +1,11 @@
+Скилы, полученные во время курса:
+Знания о:
+1) Postman
+2) Charles
+3) SQL Commands
+4) VPN
+5) Dev Tools
+6) Тестирование API.
+7) Особенность iOS, Android, гайдлайны
+8) Jmeter
+9) Методология разработки Scrum
