@@ -1,6 +1,6 @@
 # TXT
  - Создать внешний репозиторий c названием  TXT -->Repositories-->New -->Name
- - Клонировать репозиторий TXT на локальный компьютер. -->Button "Code" --> copy link
+ - Клонировать репозиторий TXT на локальный компьютер. -->Button "Code" --> copy link --> git clone link
  - Внутри локального TXT создать файл “new.json”. --> touch new.txt
  - Добавить файл под гит. --> git add .
  - Закоммитить файл --> git commit -m "add new file"
